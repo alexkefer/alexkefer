@@ -1,4 +1,4 @@
-## 👋, I'm Alex Kefer!  
+## Hey, I'm Alex  
   
 
 <a href="https://github.com/alexkefer" target="_blank">
@@ -9,34 +9,34 @@
 </a>
 <a href="https://instagram.com/alexkefer" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://alexkefer.com" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-%23232E79.svg?&style=for-the-badge style="margin-bottom: 5px;" />
+</a> 
   
 
 
 
-### Glad to see you here!  
+### Welcome to my github!  
   
   
 
 <br/>  
 
 
-## Rapidfire  
+## Who am I  
 <table><tr><td valign="top" width="50%">
 
-- 🎓 I graduate Western Washington University Spring of 2024 with a Bachelors of Science in Computer Science  
-  
-
-- 🔭 I’m currently working on [Descriptive Alt Text Generator for WWU](https://github.com/wwu-webtech/descriptive-alt-text-generator)  
+- 🎓 I graduated Western Washington University in 2024 with a Bachelors of Science in Computer Science
   
 
 - 🔭 I am currently working on a nutrient tracker to track users daily intake of calories and nutrients.  
   
 
-- 🌱 I’m currently learning React.js, Astro.js, and Golang  
+- 🌱 I’m currently learning React.js, Angular, and Golang  
   
 
-- ⚡ Fun fact: I work best in dark environments  
+- ⚡ Fun fact: I grew up playing a lot of pc video games, good luck finding my steam though it's classified :)  
   
 
 - ⚡ Fun fact: I average around 100,000 minutes of listening to music a year  
@@ -82,20 +82,6 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alexkefer&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkefer&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 <br/>  
 
