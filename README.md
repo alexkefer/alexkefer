@@ -18,35 +18,6 @@
 
 
 ### Welcome to my github!  
-  
-  
-
-<br/>  
-
-
-## Who am I  
-<table><tr><td valign="top" width="50%">
-
-- 🎓 I graduated Western Washington University in 2024 with a Bachelors of Science in Computer Science
-  
-
-- 🔭 I am currently working on a nutrient tracker to track users daily intake of calories and nutrients.  
-  
-
-- 🌱 I’m currently learning React.js, Angular, and Golang  
-  
-
-- ⚡ Fun fact: I grew up playing a lot of pc video games, good luck finding my steam though it's classified :)  
-  
-
-- ⚡ Fun fact: I average around 100,000 minutes of listening to music a year  
-
-
-</td><td valign="top" width="50%">
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=1j9kcdnh81zzt719c5whb04lu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
-
-</td></tr></table>  
 
 <br/>  
 
